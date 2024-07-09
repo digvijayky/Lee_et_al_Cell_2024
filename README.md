@@ -4,8 +4,4 @@ Lung adenocarcinoma patient data (PATIENT_LUNG_ADENOCARCINOMA_ANNOTATED.h5) can 
 
 If you use this code or data, please cite:
 
-```
-Lee, Jun Ho., Sánchez-Rivera, Francisco., He, Lan., Basnet, Harihar., Chen, Fei Xavier., Spina, Elena., Li, Liangji., Torner, Carles., Chan, Jason E., Yarlagadda, Dig Vijay Kumar., Park, Jin Suk., Sussman, Carleigh., Rudin, Charles M., Lowe, Scott W., Tammela, Tuomas., Macias, Maria J., Koche, Richard P., and Massagué, Joan.
-"TGF-ß and RAS jointly unmask primed enhancers to drive metastasis".
-In press at Cell 2024.
-```
+``` Lee, Jun Ho., Sánchez-Rivera, Francisco., He, Lan., Basnet, Harihar., Chen, Fei Xavier., Spina, Elena., Li, Liangji., Torner, Carles., Chan, Jason E., Yarlagadda, Dig Vijay Kumar., Park, Jin Suk., Sussman, Carleigh., Rudin, Charles M., Lowe, Scott W., Tammela, Tuomas., Macias, Maria J., Koche, Richard P., and Massagué, Joan. "TGF-ß and RAS jointly unmask primed enhancers to drive metastasis". In press at Cell 2024. ```
