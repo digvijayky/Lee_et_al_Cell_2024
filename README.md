@@ -1,4 +1,4 @@
-Code for generating patient data heatmap (Fig 1a) for Lee et al Cell 2024. If you use this code or data, please cite:
+Code for generating patient data heatmap (Fig 1a) for _Lee et al. Cell 2024_. If you use this code or data, please cite:
 
 ```
 Lee, Jun Ho., Sánchez-Rivera, Francisco., He, Lan., Basnet, Harihar., Chen, Fei Xavier., Spina, Elena., Li, Liangji., Torner, Carles., Chan, Jason E., Yarlagadda, Dig Vijay Kumar., Park, Jin Suk., Sussman, Carleigh., Rudin, Charles M., Lowe, Scott W., Tammela, Tuomas., Macias, Maria J., Koche, Richard P., and Massagué, Joan.
