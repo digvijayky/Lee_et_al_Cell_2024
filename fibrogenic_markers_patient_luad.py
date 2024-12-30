@@ -49,7 +49,7 @@ features = np.concatenate(list(genes_to_plot.values()))
 # Get smoothed matrix to plot
 mat = df[features].apply(sp.stats.zscore, axis=0)
 mat = mat.sort_values(by=sort_param, ascending=False)
-df.to_hdf('/data/massague/vijay/scrna_analysisg/zhenghans_project/datasets/laugney_et_al/ashley_nature_med/data/ashley_patient_luad_data_with_hallmark_emt_sig.h5', 'df')
+df.to_hdf('/path/to/data/ashley_patient_luad_data_with_hallmark_emt_sig.h5', 'df')
 df = df.loc[mat.index, :]
 
 # Get categorical data to plot
